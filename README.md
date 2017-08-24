@@ -64,3 +64,4 @@ data['hidsc']=""
 要建立一次session,因为那样的的cookie访问一次，
 
 进入了教务网，自己就可以编写自己想要的模块来实现自己想要的模板
+![image](https://github.com/XuanmoFeng/web-crawler/blob/master/IMG_20170708_174701.jpg?raw=true)
